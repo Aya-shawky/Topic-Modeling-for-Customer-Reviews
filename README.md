@@ -1,5 +1,5 @@
 # Topic-Modeling-for-Customer-Reviews
-This repo to cluster customer review about new product in english try to apply different approaches to reach this goal 
+This repo to cluster customer review about new product in the english language. I applied the most common approaches of Topic Modeling.
 
 ## Details
 
