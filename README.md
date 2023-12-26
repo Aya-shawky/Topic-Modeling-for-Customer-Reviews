@@ -1,7 +1,8 @@
 # Topic-Modeling-for-Customer-Reviews
 This repo to cluster customer review about new product in english try to apply different approaches to reach this goal 
 
-##Details
+## Details
+
 **Aproach 1**
 
 1. Bussiness Understanding and Data visualization 
